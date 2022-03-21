@@ -1,0 +1,2 @@
+Framework: Entity Framwork cho kết nổi database
+.net, agular, 
